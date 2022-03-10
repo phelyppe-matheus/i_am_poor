@@ -1,10 +1,13 @@
-# i_am_rich
+# I am poor
+## Not for long, i wish
 
-A new Flutter project.
+Ain't it a nice Flutter project?
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+## I will allow this bit of ads on my project
 
 A few resources to get you started if this is your first Flutter project:
 
